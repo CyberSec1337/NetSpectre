@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/CBGh0Yx.png" alt="NetSpectre Banner" /></p>
+<p align="center"><img src="https://kommodo.ai/i/yLlf5KkkiU5FVGL9aEVv" alt="NetSpectre Banner" /></p>
 
 # NetSpectre
 
@@ -31,7 +31,7 @@ NetSpectre is a high-performance network analysis and traffic shaping console de
 To download and install NetSpectre globally:
 
 ```bash
-git clone https://github.com/netspectre/netspectre.git
+git clone https://github.com/CyberSec1337/netspectre.git
 cd netspectre
 sudo python3 setup.py install
 ```
