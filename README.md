@@ -63,6 +63,8 @@ To launch the web administration console:
 ```bash
 cd web
 sudo python3 backend/app.py
+or
+bash start_real.sh
 ```
 Open **`http://localhost:5000`** in your browser.
 
