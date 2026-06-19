@@ -66,6 +66,3 @@ If launched without root privileges, NetSpectre automatically falls back to **De
 
 ## Disclaimer
 NetSpectre is provided for educational, testing, and network administration purposes only. The authors take no responsibility for misuse or damage caused by using this application.
-
-## License
-Licensed under the [MIT License](LICENSE). Copyright (c) 2026 NetSpectre Project.
