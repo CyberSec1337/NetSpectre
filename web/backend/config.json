@@ -1,0 +1,18 @@
+{
+    "password_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "smtp": {
+        "enabled": false,
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "user": "",
+        "password": "",
+        "recipient": ""
+    },
+    "static_rules": {},
+    "scheduler": [],
+    "telegram": {
+        "enabled": true,
+        "bot_token": "8861331669:AAEtJuVb3TuqQNVgAkTtZkL6POZGRwoRYG8",
+        "chat_id": "1198056772"
+    }
+}
