@@ -5,8 +5,17 @@
 NetSpectre is a high-performance network analysis and traffic shaping console designed for local network analysis. Utilizing advanced ARP redirection and Linux traffic control (tc) disciplines, NetSpectre allows administrators to monitor bandwidth, inspect node statistics, and throttle transmission rates (upload/download) across connected interfaces without needing administrative control on target hosts.
 
 ---
-<p align="center"><img src="https://i.postimg.cc/9M14XsQ0/fg.png"
-                    
+<p align="center"><img src="https://i.postimg.cc/9M14XsQ0/fg.png/> 
+[url=https://postimg.cc/S2TTNdtx][img]https://i.postimg.cc/S2TTNdtx/1.png[/img][/url]
+[url=https://postimg.cc/HjnvPGVc][img]https://i.postimg.cc/HjnvPGVc/2.png[/img][/url]
+[url=https://postimg.cc/ctvDK3V2][img]https://i.postimg.cc/ctvDK3V2/3.png[/img][/url]
+[url=https://postimg.cc/7J5BCzpm][img]https://i.postimg.cc/7J5BCzpm/3-1.png[/img][/url]
+[url=https://postimg.cc/m1Pdc90m][img]https://i.postimg.cc/m1Pdc90m/3-2.png[/img][/url]
+[url=https://postimg.cc/jC1gp87v][img]https://i.postimg.cc/jC1gp87v/4.png[/img][/url]
+[url=https://postimg.cc/t7Jvm0Yc][img]https://i.postimg.cc/t7Jvm0Yc/5.png[/img][/url]
+[url=https://postimg.cc/Ths7zkDN][img]https://i.postimg.cc/Ths7zkDN/6.png[/img][/url]
+[url=https://postimg.cc/V5hGx7tz][img]https://i.postimg.cc/V5hGx7tz/7.png[/img][/url] 
+             
 ## Key Features
 
 - **Real-Time Web Panel**: Cyberpunk-themed real-time dashboard displaying host statuses, link consumption charts, and topology maps.
