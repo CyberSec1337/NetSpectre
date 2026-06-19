@@ -49,7 +49,7 @@ NetSpectre is a high-performance network analysis and traffic shaping console de
 To download and install NetSpectre globally:
 
 ```bash
-git clone https://github.com/CyberSec1337/netspectre.git
+git clone https://github.com/CyberSec1337/NetSpectre.git
 cd netspectre
 sudo python3 setup.py install
 ```
