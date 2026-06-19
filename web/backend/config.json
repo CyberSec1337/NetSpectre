@@ -12,7 +12,7 @@
     "scheduler": [],
     "telegram": {
         "enabled": true,
-        "bot_token": "8861331669:AAEtJuVb3TuqQNVgAkTtZkL6POZGRwoRYG8",
-        "chat_id": "1198056772"
+        "bot_token": "",
+        "chat_id": ""
     }
 }
