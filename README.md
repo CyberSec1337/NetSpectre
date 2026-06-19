@@ -1,4 +1,4 @@
-<p align="center"><img src="https://kommodo.ai/i/yLlf5KkkiU5FVGL9aEVv" alt="NetSpectre Banner" /></p>
+<p align="center"><img src="https://i.postimg.cc/9M14XsQ0/fg.png" alt="NetSpectre Banner" /></p>
 
 # NetSpectre
 
