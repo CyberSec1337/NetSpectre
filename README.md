@@ -5,22 +5,28 @@
 NetSpectre is a high-performance network analysis and traffic shaping console designed for local network analysis. Utilizing advanced ARP redirection and Linux traffic control (tc) disciplines, NetSpectre allows administrators to monitor bandwidth, inspect node statistics, and throttle transmission rates (upload/download) across connected interfaces without needing administrative control on target hosts.
 
 ---
-<div style="text-align: center; margin-bottom: 20px;">
-    <a href="https://postimg.cc/S2TTNdtx" target="_blank"><img src="https://i.postimg.cc/S2TTNdtx/1.png" alt="1" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-    <a href="https://postimg.cc/HjnvPGVc" target="_blank"><img src="https://i.postimg.cc/HjnvPGVc/2.png" alt="2" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-    <a href="https://postimg.cc/ctvDK3V2" target="_blank"><img src="https://i.postimg.cc/ctvDK3V2/3.png" alt="3" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-</div>
+<style>
+    .image-container {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .zoom-img {
+        width: 30%;
+        max-width: 300px;
+        margin: 5px;
+        transition: transform 0.3s ease; /* تجعل التكبير ناعم وسلس */
+    }
+    .zoom-img:hover {
+        transform: scale(1.2); /* تكبر الصورة بنسبة 20% عند تمرير الماوس */
+        z-index: 10; /* تضمن ظهور الصورة المكبرة فوق بقية العناصر */
+        position: relative;
+    }
+</style>
 
-<div style="text-align: center; margin-bottom: 20px;">
-    <a href="https://postimg.cc/7J5BCzpm" target="_blank"><img src="https://i.postimg.cc/7J5BCzpm/3-1.png" alt="3-1" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-    <a href="https://postimg.cc/m1Pdc90m" target="_blank"><img src="https://i.postimg.cc/m1Pdc90m/3-2.png" alt="3-2" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-    <a href="https://postimg.cc/jC1gp87v" target="_blank"><img src="https://i.postimg.cc/jC1gp87v/4.png" alt="4" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-</div>
-
-<div style="text-align: center;">
-    <a href="https://postimg.cc/t7Jvm0Yc" target="_blank"><img src="https://i.postimg.cc/t7Jvm0Yc/5.png" alt="5" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-    <a href="https://postimg.cc/Ths7zkDN" target="_blank"><img src="https://i.postimg.cc/Ths7zkDN/6.png" alt="6" style="width: 30%; max-width: 300px; margin: 5px;"></a>
-    <a href="https://postimg.cc/V5hGx7tz" target="_blank"><img src="https://i.postimg.cc/V5hGx7tz/7.png" alt="7" style="width: 30%; max-width: 300px; margin: 5px;"></a>
+<div class="image-container">
+    <a href="https://postimg.cc/S2TTNdtx" target="_blank"><img src="https://i.postimg.cc/S2TTNdtx/1.png" alt="1" class="zoom-img"></a>
+    <a href="https://postimg.cc/HjnvPGVc" target="_blank"><img src="https://i.postimg.cc/HjnvPGVc/2.png" alt="2" class="zoom-img"></a>
+    <a href="https://postimg.cc/ctvDK3V2" target="_blank"><img src="https://i.postimg.cc/ctvDK3V2/3.png" alt="3" class="zoom-img"></a>
 </div>
  
 ---
